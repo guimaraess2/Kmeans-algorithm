@@ -1,2 +1,4 @@
-# Kmeans
-k-means clustering algorithm
+# Kmeans 
+As técnicas de aprendizado de máquina têm demonstrado êxito em questões de classificação de todos os tipos: diagnóstico médico, reconhecimento de caracteres, inadimplência de crédito e previsão de fraude e também prognóstico do mercado de câmbio. 
+A segmentação de clientes é um processo de divisão de clientes em diferentes grupos, para que eles possam oferecer serviços personalizados e experiência do cliente. A segmentação de clientes permite que uma empresa entenda seus clientes  e maximize os lucros com base em seus pontos fortes e evite riscos, que podem ser causados pelas fraquezas.
+Para este tipo de abordagem o algorítimo k-means se mostra muito eficiente, porque é capaz de separar em grupos os clientes de uma instituição bancária e dar uma visão de quais benefícios se encaixa para cada grupo destes clientes.
